@@ -9,7 +9,7 @@
 		<h1> Bem vindo</h1>
 		
 		
-		<p> Descubra qual a data de hoje: 
+		<p> A data de hoje é: 
 <?php
 		$btnSubmit = $_POST["btnSubmit"];    
 		if($btnSubmit == "Que dia é hoje?") echo date("d/m/Y");
