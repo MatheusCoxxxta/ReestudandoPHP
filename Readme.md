@@ -1,1 +1,1 @@
-Hello world! I'm studying again everything to improve my skills. 
+Hello world! I'm studying everything again to improve my skills. 
